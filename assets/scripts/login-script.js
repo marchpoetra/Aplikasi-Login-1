@@ -5,7 +5,7 @@
  * Gunakan fungsi showPopUp() untuk menampilkan pop up error
  */
 
-// Variabel setiap ELEMEN
+// Variabel dari setiap elemen
 const loginFormElement = document.querySelector('#loginForm');
 const inputEmailElement = document.querySelector('#inputEmail');
 const inputPasswordElement = document.querySelector('#inputPassword');
